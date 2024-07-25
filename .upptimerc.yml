@@ -1,0 +1,30 @@
+owner: kuzzleio
+repo: status-page
+user-agent: kuzzleio
+
+sites:
+  - name: Kuzzle Website
+    url: https://kuzzle.io
+  - name: Kuzzle Blog
+    url: https://blog.kuzzle.io
+  - name: Kuzzle Docs
+    url: https://docs.kuzzle.io
+
+status-website:
+  cname: status.kuzzle.io
+  logoUrl: https://raw.githubusercontent.com/kuzzleio/status-page/main/assets/kuzzle.svg
+  favicon: https://kuzzle.io/wp-content/uploads/2020/01/favicon.png
+  name: Kuzzle Status
+  navbar:
+    - title: Status
+      href: /
+    - title: Kuzzle
+      href: https://kuzzle.io
+    - title: GitHub
+      href: https://github.com/$OWNER
+
+commitMessages:
+  readmeContent: "docs(readme): update summary [skip ci] [upptime]"
+  summaryJson: "chore: update status summary [skip ci] [upptime]"
+  statusChange: "status: $EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci] [upptime]"
+  graphsUpdate: "chore: update graphs [skip ci] [upptime]"
