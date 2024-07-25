@@ -12,8 +12,9 @@ sites:
 
 status-website:
   cname: status.kuzzle.io
-  logoUrl: https://raw.githubusercontent.com/kuzzleio/status-page/main/assets/kuzzle.svg
-  favicon: https://kuzzle.io/wp-content/uploads/2020/01/favicon.png
+  logoUrl: https://status.kuzzle.io/kuzzle.svg
+  favicon: https://status.kuzzle.io/favicon.png
+  themeUrl: https://status.kuzzle.io/kuzzle.css
   name: Kuzzle Status
   navbar:
     - title: Status
