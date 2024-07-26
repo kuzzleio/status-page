@@ -12,8 +12,24 @@ sites:
     url: https://blog.kuzzle.io
   - name: Kuzzle Docs
     url: https://docs.kuzzle.io
+  - name: PaaS Console (API)
+    url: $SITE_URL_PAAS_CONSOLE_API
+  - name: PaaS Console (Web)
+    url: $SITE_URL_PAAS_CONSOLE_WEB
   - name: PaaS Packages
     url: $SITE_URL_PAAS_PACKAGES
+  - name: PaaS Container registry
+    url: $SITE_URL_PAAS_CONTAINER_REGISTRY
+  - name: PaaS CD
+    url: $SITE_URL_PAAS_CD
+  - name: PaaS SSO
+    url: $SITE_URL_PAAS_SSO
+  - name: PaaS LNS (Web)
+    url: $SITE_URL_PAAS_LNS_WEB
+  - name: PaaS LNS (MQTT)
+    check: "tcp-ping"
+    url: $SITE_URL_PAAS_LNS_MQTT
+    port: 1883
 
 status-website:
   cname: status.kuzzle.io
