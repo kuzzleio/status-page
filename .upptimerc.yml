@@ -12,6 +12,8 @@ sites:
     url: https://blog.kuzzle.io
   - name: Kuzzle Docs
     url: https://docs.kuzzle.io
+  - name: PaaS Packages
+    url: $SITE_URL_PAAS_PACKAGES
 
 status-website:
   cname: status.kuzzle.io
