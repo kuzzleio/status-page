@@ -29,7 +29,7 @@ sites:
   - name: PaaS LNS (MQTT)
     check: "tcp-ping"
     url: $SITE_URL_PAAS_LNS_MQTT
-    port: 1883
+    port: $SITE_PORT_PAAS_LNS_MQTT
 
 status-website:
   cname: status.kuzzle.io
