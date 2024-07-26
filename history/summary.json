@@ -54,6 +54,46 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "PaaS Console (API)",
+    "url": "$SITE_URL_PAAS_CONSOLE_API",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "paa-s-console-api",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 512,
+    "timeDay": 512,
+    "timeWeek": 512,
+    "timeMonth": 512,
+    "timeYear": 512,
+    "dailyMinutesDown": {
+      "2024-07-26": 6
+    }
+  },
+  {
+    "name": "PaaS Console (Web)",
+    "url": "$SITE_URL_PAAS_CONSOLE_WEB",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "paa-s-console-web",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 638,
+    "timeDay": 638,
+    "timeWeek": 638,
+    "timeMonth": 638,
+    "timeYear": 638,
+    "dailyMinutesDown": {
+      "2024-07-26": 3
+    }
+  },
+  {
     "name": "PaaS Packages",
     "url": "$SITE_URL_PAAS_PACKAGES",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
@@ -70,5 +110,105 @@
     "timeMonth": 533,
     "timeYear": 533,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "PaaS Container registry",
+    "url": "$SITE_URL_PAAS_CONTAINER_REGISTRY",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "paa-s-container-registry",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 639,
+    "timeDay": 639,
+    "timeWeek": 639,
+    "timeMonth": 639,
+    "timeYear": 639,
+    "dailyMinutesDown": {
+      "2024-07-26": 4
+    }
+  },
+  {
+    "name": "PaaS CD",
+    "url": "$SITE_URL_PAAS_CD",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "paa-s-cd",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 509,
+    "timeDay": 509,
+    "timeWeek": 509,
+    "timeMonth": 509,
+    "timeYear": 509,
+    "dailyMinutesDown": {
+      "2024-07-26": 4
+    }
+  },
+  {
+    "name": "PaaS SSO",
+    "url": "$SITE_URL_PAAS_SSO",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "paa-s-sso",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 518,
+    "timeDay": 518,
+    "timeWeek": 518,
+    "timeMonth": 518,
+    "timeYear": 518,
+    "dailyMinutesDown": {
+      "2024-07-26": 4
+    }
+  },
+  {
+    "name": "PaaS LNS (Web)",
+    "url": "$SITE_URL_PAAS_LNS_WEB",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "paa-s-lns-web",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 667,
+    "timeDay": 667,
+    "timeWeek": 667,
+    "timeMonth": 667,
+    "timeYear": 667,
+    "dailyMinutesDown": {
+      "2024-07-26": 4
+    }
+  },
+  {
+    "name": "PaaS LNS (MQTT)",
+    "url": "$SITE_URL_PAAS_LNS_MQTT",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "paa-s-lns-mqtt",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-07-26": 5
+    }
   }
 ]
