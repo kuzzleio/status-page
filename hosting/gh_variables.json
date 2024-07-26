@@ -1,0 +1,4 @@
+{
+  "NOTIFICATION_SLACK": "true",
+  "NOTIFICATION_SLACK_WEBHOOK": "true"
+}
