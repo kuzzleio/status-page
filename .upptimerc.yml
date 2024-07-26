@@ -1,6 +1,9 @@
 owner: kuzzleio
 repo: status-page
 user-agent: kuzzleio
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
 
 sites:
   - name: Kuzzle Website
