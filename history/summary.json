@@ -52,5 +52,23 @@
     "timeMonth": 747,
     "timeYear": 747,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "PaaS Packages",
+    "url": "$SITE_URL_PAAS_PACKAGES",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "paa-s-packages",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 533,
+    "timeDay": 533,
+    "timeWeek": 533,
+    "timeMonth": 533,
+    "timeYear": 533,
+    "dailyMinutesDown": {}
   }
 ]
