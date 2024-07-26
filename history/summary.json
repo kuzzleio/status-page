@@ -76,18 +76,20 @@
     "url": "$SITE_URL_PAAS_CONSOLE_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paa-s-console-web",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 638,
-    "timeWeek": 638,
-    "timeMonth": 638,
-    "timeYear": 638,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 534,
+    "timeDay": 534,
+    "timeWeek": 534,
+    "timeMonth": 534,
+    "timeYear": 534,
+    "dailyMinutesDown": {
+      "2024-07-26": 0
+    }
   },
   {
     "name": "PaaS Packages",
@@ -185,18 +187,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paa-s-lns-mqtt",
     "status": "up",
-    "uptime": "1.73%",
-    "uptimeDay": "1.73%",
-    "uptimeWeek": "1.73%",
-    "uptimeMonth": "1.73%",
-    "uptimeYear": "1.73%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 85,
     "timeDay": 85,
     "timeWeek": 85,
     "timeMonth": 85,
     "timeYear": 85,
-    "dailyMinutesDown": {
-      "2024-07-26": 33
-    }
+    "dailyMinutesDown": {}
   }
 ]
