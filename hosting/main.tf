@@ -1,5 +1,7 @@
 locals {
   tfstate_bucket_name = "status-page.tfstate"
+
+  github_secrets = jsondecode(file("${path.module}/gh_secrets.json"))
 }
 
 # Project
@@ -19,4 +21,11 @@ module "gh-pages" {
 
   hosted_zone_name = var.route53_hosted_zone_name
   domain_name      = var.domain_name
+}
+
+module "gh-secrets" {
+  source = "./modules/gh-secrets"
+
+  github_repository = var.github_repository
+  secrets           = local.github_secrets
 }

@@ -20,7 +20,64 @@ This hosts the monitor and status page for Kuzzle, powered by [Upptime](https://
 
 <!--end: status pages-->
 
-## 📄 License
+## Infrastructure
+
+The [`hosting/`](./hosting/) directory holds the Terraform files for deploying the status page infrastructure.
+
+### Installation
+
+To work on the infrastructure, you will need to install several tools:
+- [just](https://github.com/casey/just) to have access to the pre-defined commands.
+- [Kourou](https://github.com/kuzzleio/kourou) to decrypt and encrypt the secret files.
+- Terraform, either [directly](https://developer.hashicorp.com/terraform/install?product_intent=terraform) or using [tfenv](https://github.com/tfutils/tfenv).
+- The [Scaleway CLI](https://github.com/scaleway/scaleway-cli), then log in to your Scaleway account by [creating an API key for yourself](https://www.scaleway.com/en/docs/identity-and-access-management/iam/how-to/create-api-keys/).  
+**Note**: you'll need to select the "default" project as the project used for Object Storage operations.
+- The [GitHub CLI](https://cli.github.com/), then log in to your GitHub account.
+- The [AWS CLI](https://aws.amazon.com/cli/), then log in to your AWS account using `aws configure` (the profile that will be used is `default`).
+
+### Preparation
+
+If this is your first time working with the infrastructure, you will need to first initialize the directory:
+
+```sh
+just init
+kourou vault:decrypt gh_secrets.enc.json --vault-key '<VAULT_PASSWORD>'
+```
+
+> [!NOTE]
+> The Vault password can be found in the company password manager.
+
+### Applying changes
+
+To preview your changes to the infrastructure:
+
+```sh
+just preview
+```
+
+To apply them:
+
+```sh
+just apply
+```
+
+If you changed a GitHub Actions secret, you'll need to re-encrypt the file before committing it:
+
+```sh
+kourou vault:encrypt gh_secrets.json --vault-key '<VAULT_PASSWORD>'
+```
+
+### Miscellaneous
+
+#### Exporting the keys
+
+If you need to directly use the Terraform CLI, you can export the access and secret keys used to authenticate against the S3 backend:
+
+```sh
+eval `just export-keys`
+```
+
+## License
 
 - Code: [MIT](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com), supported by [Pabio](https://pabio.com)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)

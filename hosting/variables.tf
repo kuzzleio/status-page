@@ -10,6 +10,12 @@ variable "github_organization" {
   default     = "kuzzleio"
 }
 
+variable "github_repository" {
+  description = "The of the GitHub repository where the status page code is hosted"
+  type        = string
+  default     = "status-page"
+}
+
 variable "route53_hosted_zone_name" {
   description = "The name of the Route 53 hosted zone"
   type        = string
