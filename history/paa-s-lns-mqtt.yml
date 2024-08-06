@@ -1,7 +1,7 @@
 url: $SITE_URL_PAAS_LNS_MQTT
 status: up
 code: 200
-responseTime: 84
-lastUpdated: 2024-08-05T23:06:50.414Z
+responseTime: 104
+lastUpdated: 2024-08-06T23:06:22.940Z
 startTime: 2024-07-26T09:15:51.182Z
 generator: Upptime <https://github.com/upptime/upptime>
