@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paa-s-console-api",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "96.82%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.87%",
+    "uptimeDay": "96.42%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.87%",
     "time": 473,
     "timeDay": 463,
     "timeWeek": 452,
     "timeMonth": 474,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2024-09-01": 46,
+      "2024-09-01": 52,
       "2024-08-27": 9,
       "2024-08-02": 10
     }
@@ -80,9 +80,9 @@
     "url": "$SITE_URL_PAAS_CONSOLE_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paa-s-console-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "96.88%",
+    "uptimeDay": "96.87%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.92%",
@@ -100,9 +100,9 @@
     "url": "$SITE_URL_PAAS_PACKAGES",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paa-s-packages",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "96.88%",
+    "uptimeDay": "96.87%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.92%",
@@ -121,18 +121,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paa-s-container-registry",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "96.82%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.90%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.90%",
     "time": 422,
     "timeDay": 480,
     "timeWeek": 440,
     "timeMonth": 414,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2024-09-01": 46
+      "2024-09-01": 51
     }
   },
   {
@@ -141,18 +141,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paa-s-cd",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.90%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.90%",
     "time": 418,
     "timeDay": 482,
     "timeWeek": 440,
     "timeMonth": 414,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2024-09-01": 46
+      "2024-09-01": 51
     }
   },
   {
@@ -161,18 +161,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paa-s-sso",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.90%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.90%",
     "time": 437,
     "timeDay": 479,
     "timeWeek": 466,
     "timeMonth": 432,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2024-09-01": 46
+      "2024-09-01": 51
     }
   },
   {
@@ -181,18 +181,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paa-s-lns-web",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.90%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.90%",
     "time": 430,
     "timeDay": 452,
     "timeWeek": 409,
     "timeMonth": 417,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2024-09-01": 46
+      "2024-09-01": 51
     }
   },
   {
