@@ -54,6 +54,46 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Discord #1",
+    "url": "https://discord-redirect.app.kuzzle.io",
+    "icon": "https://icons.duckduckgo.com/ip3/discord-redirect.app.kuzzle.io.ico",
+    "slug": "discord-1",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 628,
+    "timeDay": 628,
+    "timeWeek": 628,
+    "timeMonth": 628,
+    "timeYear": 628,
+    "dailyMinutesDown": {
+      "2024-09-17": 4
+    }
+  },
+  {
+    "name": "Discord #2",
+    "url": "https://join.discord.kuzzle.io",
+    "icon": "https://icons.duckduckgo.com/ip3/join.discord.kuzzle.io.ico",
+    "slug": "discord-2",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 592,
+    "timeDay": 592,
+    "timeWeek": 592,
+    "timeMonth": 592,
+    "timeYear": 592,
+    "dailyMinutesDown": {
+      "2024-09-17": 4
+    }
+  },
+  {
     "name": "PaaS Console (API)",
     "url": "$SITE_URL_PAAS_CONSOLE_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
@@ -103,11 +143,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paa-s-packages",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.85%",
     "time": 439,
     "timeDay": 484,
     "timeWeek": 461,
