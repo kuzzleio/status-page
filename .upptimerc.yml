@@ -12,6 +12,14 @@ sites:
     url: https://blog.kuzzle.io
   - name: Kuzzle Docs
     url: https://docs.kuzzle.io
+  - name: "Discord #1"
+    url: https://discord-redirect.app.kuzzle.io
+    expectedStatusCodes:
+      - 302
+  - name: "Discord #2"
+    url: https://join.discord.kuzzle.io
+    expectedStatusCodes:
+      - 302
   - name: PaaS Console (API)
     url: $SITE_URL_PAAS_CONSOLE_API
   - name: PaaS Console (Web)
