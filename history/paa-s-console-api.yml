@@ -1,7 +1,7 @@
 url: $SITE_URL_PAAS_CONSOLE_API
-status: down
-code: 503
-responseTime: 429
-lastUpdated: 2024-09-18T06:09:30.631Z
+status: up
+code: 200
+responseTime: 466
+lastUpdated: 2024-09-18T06:34:08.412Z
 startTime: 2024-07-26T09:15:44.656Z
 generator: Upptime <https://github.com/upptime/upptime>
