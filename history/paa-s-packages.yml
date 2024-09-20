@@ -1,7 +1,7 @@
 url: $SITE_URL_PAAS_PACKAGES
-status: down
-code: 404
-responseTime: 482
-lastUpdated: 2024-09-20T21:27:41.061Z
+status: up
+code: 200
+responseTime: 546
+lastUpdated: 2024-09-20T21:34:05.506Z
 startTime: 2024-07-26T08:57:53.847Z
 generator: Upptime <https://github.com/upptime/upptime>
