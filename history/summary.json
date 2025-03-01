@@ -4,18 +4,20 @@
     "url": "https://kuzzle.io",
     "icon": "https://icons.duckduckgo.com/ip3/kuzzle.io.ico",
     "slug": "kuzzle-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 976,
-    "timeDay": 1221,
-    "timeWeek": 966,
-    "timeMonth": 1011,
+    "timeDay": 1084,
+    "timeWeek": 963,
+    "timeMonth": 1009,
     "timeYear": 976,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-01": 0
+    }
   },
   {
     "name": "Kuzzle Blog",
