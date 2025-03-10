@@ -60,19 +60,19 @@
     "url": "https://discord-redirect.app.kuzzle.io",
     "icon": "https://icons.duckduckgo.com/ip3/discord-redirect.app.kuzzle.io.ico",
     "slug": "discord-1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 469,
-    "timeDay": 462,
-    "timeWeek": 481,
-    "timeMonth": 478,
+    "timeDay": 416,
+    "timeWeek": 467,
+    "timeMonth": 474,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2025-03-10": 0
+      "2025-03-10": 7
     }
   },
   {
