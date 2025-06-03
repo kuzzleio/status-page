@@ -1,7 +1,7 @@
 url: $SITE_URL_PAAS_CONSOLE_API
 status: up
 code: 200
-responseTime: 443
-lastUpdated: 2025-06-02T23:07:01.107Z
+responseTime: 604
+lastUpdated: 2025-06-03T23:06:57.208Z
 startTime: 2024-07-26T09:15:44.656Z
 generator: Upptime <https://github.com/upptime/upptime>
