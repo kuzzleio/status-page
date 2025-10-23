@@ -4,9 +4,9 @@
     "url": "https://kuzzle.io",
     "icon": "https://icons.duckduckgo.com/ip3/kuzzle.io.ico",
     "slug": "kuzzle-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.63%",
+    "uptimeDay": "98.62%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -14,7 +14,7 @@
     "timeDay": 4302,
     "timeWeek": 2039,
     "timeMonth": 1289,
-    "timeYear": 1045,
+    "timeYear": 1044,
     "dailyMinutesDown": {
       "2025-10-23": 19,
       "2025-03-01": 14
