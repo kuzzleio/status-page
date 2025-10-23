@@ -24,18 +24,19 @@
     "url": "https://blog.kuzzle.io",
     "icon": "https://icons.duckduckgo.com/ip3/blog.kuzzle.io.ico",
     "slug": "kuzzle-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 356,
+    "timeDay": 320,
     "timeWeek": 284,
     "timeMonth": 294,
     "timeYear": 311,
     "dailyMinutesDown": {
+      "2025-10-23": 0,
       "2025-09-27": 7
     }
   },
