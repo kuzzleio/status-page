@@ -28,12 +28,12 @@
     "status": "up",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.82%",
+    "uptimeWeek": "98.93%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.91%",
     "time": 314,
     "timeDay": 289,
-    "timeWeek": 283,
+    "timeWeek": 277,
     "timeMonth": 302,
     "timeYear": 309,
     "dailyMinutesDown": {
@@ -85,11 +85,11 @@
     "url": "https://discord-redirect.app.kuzzle.io",
     "icon": "https://icons.duckduckgo.com/ip3/discord-redirect.app.kuzzle.io.ico",
     "slug": "discord-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 476,
     "timeDay": 479,
@@ -97,6 +97,7 @@
     "timeMonth": 516,
     "timeYear": 483,
     "dailyMinutesDown": {
+      "2026-01-02": 0,
       "2025-12-15": 15,
       "2025-05-15": 10,
       "2025-03-10": 7
@@ -107,9 +108,9 @@
     "url": "https://join.discord.kuzzle.io",
     "icon": "https://icons.duckduckgo.com/ip3/join.discord.kuzzle.io.ico",
     "slug": "discord-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
@@ -119,6 +120,7 @@
     "timeMonth": 524,
     "timeYear": 531,
     "dailyMinutesDown": {
+      "2026-01-02": 0,
       "2025-12-15": 15,
       "2025-05-15": 10
     }
