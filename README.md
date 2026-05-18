@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.kuzzle.io): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://status.kuzzle.io): <!--live status--> **🟩 All systems operational**
 
 [![Uptime CI](https://github.com/kuzzleio/status-page/workflows/Uptime%20CI/badge.svg)](https://github.com/kuzzleio/status-page/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/kuzzleio/status-page/workflows/Response%20Time%20CI/badge.svg)](https://github.com/kuzzleio/status-page/actions?query=workflow%3A%22Response+Time+CI%22)
