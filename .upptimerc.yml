@@ -34,12 +34,6 @@ sites:
     url: $SITE_URL_PAAS_CD
   - name: PaaS SSO
     url: $SITE_URL_PAAS_SSO
-  - name: PaaS LNS (Web)
-    url: $SITE_URL_PAAS_LNS_WEB
-  - name: PaaS LNS (MQTT)
-    check: "tcp-ping"
-    url: $SITE_URL_PAAS_LNS_MQTT
-    port: $SITE_PORT_PAAS_LNS_MQTT
 
 status-website:
   cname: status.kuzzle.io
