@@ -1,7 +1,7 @@
 url: $SITE_URL_PAAS_CONTAINER_REGISTRY
 status: up
 code: 200
-responseTime: 492
-lastUpdated: 2026-06-11T23:37:06.020Z
+responseTime: 408
+lastUpdated: 2026-06-12T23:36:31.548Z
 startTime: 2024-07-26T09:15:47.408Z
 generator: Upptime <https://github.com/upptime/upptime>
